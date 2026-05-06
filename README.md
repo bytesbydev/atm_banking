@@ -52,7 +52,9 @@ For Java:
 javac Main.java
 java Main
 
-For Python:
+---
+
+## For Python:
 
 python main.py
 🧑‍💻 Usage
@@ -62,11 +64,10 @@ Select operations:
 Withdraw money
 Deposit money
 Check balance
-📸 Screenshots
+ 
+ ---
 
-(Add screenshots here)
-
-🔮 Future Improvements
+## 🔮 Future Improvements
 GUI-based interface
 Database integration
 Transaction history
@@ -79,7 +80,9 @@ Push to GitHub
 Open a Pull Request
 📄 License
 
+---
+
 This project is open-source and available under the MIT License.
 
-👤 Author
+ ## 👤 Author
 GitHub: https://github.com/bytesbydev
